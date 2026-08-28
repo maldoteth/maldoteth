@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-[![GitHub Commits Badge](https://ghcommits.com/api/badge/DeHubadmin.svg)](https://ghcommits.com/u/DeHubadmin)
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/maldoteth.svg)](https://ghcommits.com/u/maldoteth)
 
 <!--
-**DeHubadmin/dehubadmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**maldoteth/maldoteth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
