@@ -1,4 +1,4 @@
-## Hi there 👋
+## A dev doing something
 
 [![GitHub Commits Badge](https://ghcommits.com/api/badge/maldoteth.svg)](https://ghcommits.com/u/maldoteth)
 
